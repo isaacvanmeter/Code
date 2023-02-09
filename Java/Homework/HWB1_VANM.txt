@@ -1,0 +1,17 @@
+Isaac Van Meter
+1/26/23
+Homework B-1
+This is my own original work.
+
+Input:
+1. System.out.println(caesar(getInput(), 1));
+    String: abc
+2. System.out.println(caesar(getInput(), 3));
+    String: abc
+3. System.out.println(caesar(getInput(), 6));
+    String: abc
+
+Output:
+1.bcd
+2.def
+3.ghi

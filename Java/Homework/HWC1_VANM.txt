@@ -1,0 +1,48 @@
+Isaac Van Meter
+1/31/23
+Homework C-1
+This is my own original work.
+ 
+ Output: 
+ 1.
+ ON  ON  ON OFF  ON  
+ ON  ON  ON OFF  ON  
+ ON OFF OFF OFF  ON  
+ ON  ON  ON  ON  ON  
+ OFF OFF OFF OFF OFF  
+ ON OFF OFF OFF OFF  
+ 
+ OFF OFF OFF  ON OFF  
+ OFF OFF OFF  ON OFF  
+ OFF OFF OFF OFF OFF  
+ OFF OFF OFF OFF OFF
+ ON  ON  ON  ON  ON  
+ ON  ON  ON  ON  ON 
+ 2.
+ ON OFF  ON OFF OFF  
+ ON OFF OFF OFF OFF  
+ ON  ON  ON  ON OFF  
+ ON OFF  ON OFF  ON  
+ ON  ON  ON OFF  ON  
+ OFF OFF OFF OFF  ON  
+ 
+ OFF  ON OFF  ON  ON  
+ OFF  ON  ON  ON  ON  
+ OFF OFF OFF OFF OFF  
+ OFF OFF OFF OFF OFF  
+ ON  ON  ON  ON  ON  
+ ON  ON  ON  ON  ON 
+ 3.
+ OFF  ON  ON OFF OFF  
+ ON OFF  ON  ON  ON  
+ OFF  ON OFF  ON OFF  
+ OFF  ON  ON OFF  ON  
+ OFF OFF OFF OFF OFF  
+ ON  ON OFF  ON  ON  
+ 
+ ON OFF OFF  ON  ON  
+ OFF  ON OFF OFF OFF  
+ OFF OFF OFF OFF OFF  
+ OFF OFF OFF OFF OFF  
+ ON  ON  ON  ON  ON  
+ ON  ON  ON  ON  ON  

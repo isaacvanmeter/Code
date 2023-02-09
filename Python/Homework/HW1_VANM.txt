@@ -1,0 +1,11 @@
+Isaac Van Meter
+1/23/23
+Homework 1 Text File
+This is my own original work
+
+Output:
+0.0 0.73 1.68 1.78 0.15 0.57 0.55 
+
+-0.66 -1.04 0.01 -1.09 -1.62 -1.27 -0.77 
+
+-0.3 0.64 1.91 0.81 -0.22 0.68 -1.05 

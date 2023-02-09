@@ -1,0 +1,19 @@
+Isaac Van Meter
+Homework D-1
+2/7/23
+This is my own original work.
+
+Output:
+On   On   On   On   On   
+On   Off  On   Off  Off  
+On   On   Off  On   Off  
+Off  On   On   Off  Off  
+On   On   On   On   Off  
+On   On   On   On   On   
+
+Off  Off  Off  Off  Off  
+Off  On   Off  On   On   
+Off  Off  Off  Off  Off  
+Off  Off  Off  Off  Off  
+Off  On   On   On   On   
+On   On   On   On   On   
