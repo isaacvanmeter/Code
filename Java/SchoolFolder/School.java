@@ -38,9 +38,9 @@ public class School {
     @Override
     public String toString() {
         String s = "School: " +
-                "name='" + name + '\'' +
-                ", state='" + state + '\'' +
-                ", principal=" + principal;
+        "name='" + name + '\'' +
+        ", state='" + state + '\'' +
+        ", principal=" + principal;
         System.out.println(s);
         return s;
     }
