@@ -1,0 +1,12 @@
+Isaac Van Meter
+2/16/23
+E-1
+This is my own original work
+
+Output:
+School: name='Glenbrook North High School', state='Illinois', principal=Person [name=Ed Rooney, citizen=US]
+
+Student [name  = Ferris Bueller Citizen=US school=School: name='Glenbrook North High School', state='Illinois', principal=Person [name=Ed Rooney, citizen=US]]
+School: name='Westfield High School', state='Illinois', principal=Person [name=Mr. Nobody, citizen=US]
+
+Student [name  = Andie Walsh Citizen=US school=School: name='Westfield High School', state='Illinois', principal=Person [name=Mr. Nobody, citizen=US]]
