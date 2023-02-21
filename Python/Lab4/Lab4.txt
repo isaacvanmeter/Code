@@ -1,0 +1,15 @@
+Isaac Van Meter
+This is my own original work
+Lab4 
+
+Output: 
+               Isaac
+         123 Easy St
+            07/26/02
+
+Contract details: $$100k
+               Regan
+    101 Downtown Ave
+            05/08/03
+
+Contract details: $$100k

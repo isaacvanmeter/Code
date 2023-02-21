@@ -1,0 +1,12 @@
+'''
+Isaac Van Meter
+Homework F-1
+2/21/23
+This is my own original work.
+'''
+Output:
+Counter(count=0, step=1)
+Counter(count=1, step=1)
+Counter(count=10, step=10)
+Counter(count=10, step=10)
+True
