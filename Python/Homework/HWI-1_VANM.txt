@@ -1,0 +1,13 @@
+Isaac Van Meter
+This is my own original work.
+3/3/23
+
+Output:
+Player 2 wins!
+There were 2 ties.
+
+Player 1 wins!
+There were 2 ties.
+
+Player 1 wins!
+There were 3 ties.
